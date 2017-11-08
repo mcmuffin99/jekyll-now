@@ -39,15 +39,15 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I struggled at times put in the end i figured it out.</td>
+    <td>I struggled at times put in the end I figured it out.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>I ask questions to make my learning better.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I correctly did the work according to the teachers way.</td>
+    <td>I correctly did the work according to the teachers way on my own.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
@@ -55,14 +55,14 @@ published: true
   </tr>
   <tr>
     <td>Engagement</td>
-    <td></td>
+    <td>I listen because I am really interested.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>If I did more coding in clubs I would not struggle.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I need to go to more clubs and learn more code.</td>
     <td></td>
   </tr>
 </table>
