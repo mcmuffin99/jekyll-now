@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We edited github websites and learnt codes for colors</td>
+    <td>We edited github websites and learnt codes for colors.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
