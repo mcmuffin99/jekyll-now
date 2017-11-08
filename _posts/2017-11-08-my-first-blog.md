@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We edited github websites and learnt codes for coulers</td>
+    <td>We edited github websites and learnt codes for colors</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
@@ -39,7 +39,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>I struggled at times put in the end i figured it out.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
@@ -47,7 +47,7 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I correctly did the work according to the teachers way></td>
+    <td>I correctly did the work according to the teachers way.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
