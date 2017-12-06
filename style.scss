@@ -127,7 +127,7 @@ img {
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: #ff6666;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -191,13 +191,13 @@ img {
 }
 
 .site-name {eating food}
-  margin: 0;
+  margin: 2;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: 3px;
 }
 
 .site-description {i like food }
