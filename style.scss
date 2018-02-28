@@ -27,7 +27,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-background:rgba(46, 142, 239);
+background:rgba(46, 142, 239, 0.5);
 padding: 50px 30px 50px 80px;
 border: 2px solid red;
 border-radius: 20px;
@@ -35,7 +35,7 @@ border-radius: 20px;
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: Red;
   font-weight: bold;
 
   line-height: 1.7;
