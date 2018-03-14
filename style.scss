@@ -18,7 +18,7 @@ html {
 
 body {
 	background:url("http://www.hddesktops.com/web/wallpapers/something-different-cool-wallpaper-of-syringes-and-emoticons/3996x2160.jpg") no-repeat center fixed;
-  font: 18px/1.4 $SignPainter;
+  font: 18px/1.4 $helvetica;
   color: #ff4d4d;
 }
 
@@ -27,15 +27,15 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-background:rgba(46, 142, 239, 0.5);
-padding: 50px 30px 50px 80px;
-border: 2px solid red;
-border-radius: 20px;
+	background:rgba(46, 142, 239, 0.5);
+	padding: 50px 30px 50px 80px;
+	border: 2px solid red;
+	border-radius: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: Red;
+  color: red;
   font-weight: bold;
 
   line-height: 1.7;
