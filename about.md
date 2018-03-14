@@ -1,10 +1,23 @@
+
 ---
 layout: page
+
+
+
+
+
+
+
+
+
+
+
+
 title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi i am a student i can learn ( well i try)
 
 ### More Information
 
