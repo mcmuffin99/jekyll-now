@@ -17,7 +17,8 @@ title: About
 permalink: /about/
 ---
 
-Hi i am a student i can learn ( well i try)
+Hi person how are you this is my webstie I hope you think its good, thanks BYE!!!
+HEY WHY ARE YOU STILL HERE!?!?!?!?
 
 ### More Information
 
